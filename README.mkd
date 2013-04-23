@@ -1,3 +1,5 @@
 This is a simple repo I set up to test whether or not node modules were
 singletons. It turns out they are. I thought others might like to play around
 with this.
+
+To try it out, simply run: `node start.js`
